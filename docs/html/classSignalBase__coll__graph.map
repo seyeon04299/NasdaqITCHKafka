@@ -1,0 +1,8 @@
+<map id="SignalBase" name="SignalBase">
+<area shape="rect" id="node1" title=" " alt="" coords="63,452,158,479"/>
+<area shape="rect" id="node2" href="$classMlock.html" title=" " alt="" coords="6,363,215,389"/>
+<area shape="rect" id="node3" href="$classMmap.html" title=" " alt="" coords="5,273,216,300"/>
+<area shape="rect" id="node4" href="$classSignalSharedMem.html" title=" " alt="" coords="41,184,181,211"/>
+<area shape="rect" id="node5" href="$classSnapshotBase.html" title=" " alt="" coords="17,95,205,121"/>
+<area shape="rect" id="node6" href="$classSubscriptionRecord.html" title=" " alt="" coords="37,5,184,32"/>
+</map>

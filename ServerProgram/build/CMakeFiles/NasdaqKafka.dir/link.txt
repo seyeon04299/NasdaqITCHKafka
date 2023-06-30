@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 CMakeFiles/NasdaqKafka.dir/zmq_receiver.cpp.o -o NasdaqKafka  -Wl,-rpath,/usr/local/lib /usr/local/lib/libzmq.so 

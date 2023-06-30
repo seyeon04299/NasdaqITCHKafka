@@ -1,0 +1,5 @@
+{
+    "oauth.token.endpoint.uri": "https://clouddataservice.auth.nasdaq.com/auth/realms/pro-realm/protocol/openid-connect/token",
+    "oauth.client.id": "qrafttech-joohyun-jo",
+    "oauth.client.secret": "8fe45704-2f30-4cab-b12e-2108b68deac4"
+}
